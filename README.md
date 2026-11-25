@@ -13,7 +13,7 @@ I build software products and explore intelligent systems, machine learning and 
 | [NOEMA](projects/noema.md) | Small language models, memory and reasoning | Experimental research |
 | [FLUXIA](projects/fluxia.md) | Intelligent urban traffic management | Architecture & planning |
 
-## Open-source and public research portfolio
+## Public software and research portfolio
 
 | Repository | Overview |
 | --- | --- |
